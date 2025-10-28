@@ -8,6 +8,6 @@ Trabajar con ejemplos prácticos me permitió **aplicar la lógica aprendida** y
 
 Otro aprendizaje importante fue **darse cuenta de la diferencia entre pensar la solución y escribirla**. Aunque la idea de un algoritmo sea correcta, es necesario organizarlo de forma precisa para que funcione bien en cualquier lenguaje. Esta experiencia fortaleció mi capacidad de **planificación, análisis y resolución de problemas**.
 
-En resumen, la Unidad 1 me permitió construir **una base sólida en programación secuencial**, reforzando mis habilidades lógicas y mi capacidad de implementar soluciones prácticas. También me enseñó la importancia de **planificar, documentar y revisar** cada paso de un algoritmo, preparándome para enfrentar retos más complejos en las siguientes unidades.
+La Unidad 1 me permitió construir **una base sólida en programación secuencial**, reforzando mis habilidades lógicas y mi capacidad de implementar soluciones prácticas. También me enseñó la importancia de **planificar, documentar y revisar** cada paso de un algoritmo, preparándome para enfrentar retos más complejos en las siguientes unidades.
 
 [⬅️ Volver a Unidad 1](Unidad%201.md)
