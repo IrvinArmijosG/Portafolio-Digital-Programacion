@@ -11,3 +11,5 @@ Las dificultades más relevantes fueron:
   Algunos signos como `=`, `==`, `+`, `-`, `*`, `/` y `()` causaron confusión al inicio, ya que en PSeInt algunos eran más intuitivos o implícitos. En C, un pequeño error en un signo podía generar **errores de compilación** o resultados incorrectos.  
 
 En general, la transición de **pseudocódigo a un lenguaje real** exigió **mayor atención al detalle** y consolidó la comprensión de cómo funcionan los algoritmos en un entorno de programación real.
+
+[⬅️ Volver a Unidad 1](Unidad%201.md)
