@@ -1,6 +1,8 @@
 # 🧠 Algoritmos, Pseudocódigo y Diagrama de Flujo
 
 ## 📘 Algoritmos
+<img width="450" height="300" alt="image" src="https://github.com/user-attachments/assets/7cec6cb3-0a67-4b90-9516-4bdd9f3fa9de" />
+
 Un **algoritmo** es un conjunto finito y ordenado de pasos que permiten resolver un problema o realizar una tarea específica. 
 Se usa para definir la lógica de un proceso antes de programarlo.  
 Por ejemplo, un algoritmo para sumar dos números especifica las operaciones que deben hacerse y en qué orden [1].
@@ -15,6 +17,8 @@ Los algoritmos son esenciales en la programación, ya que garantizan eficiencia,
 ---
 
 ## 💻 Pseudocódigo
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/7a2190aa-e7aa-4104-89a3-edb4008ea3ec" />
+
 El **pseudocódigo** es una forma intermedia de escribir algoritmos usando palabras y estructuras similares a un lenguaje de programación,  
 pero sin preocuparse por la sintaxis. Sirve para expresar la lógica de manera simple y comprensible tanto para humanos como para programadores [3].
 
@@ -25,6 +29,8 @@ pero sin preocuparse por la sintaxis. Sirve para expresar la lógica de manera s
 ---
 
 ## 🔄 Diagrama de Flujo
+<img width="798" height="532" alt="image" src="https://github.com/user-attachments/assets/a04734d4-4dfd-477f-891c-c709ec69dfb2" />
+
 Un **diagrama de flujo** representa gráficamente los pasos de un proceso o algoritmo mediante símbolos conectados por flechas.  
 Cada figura tiene un significado específico: los óvalos indican inicio o fin, los rectángulos operaciones y los diamantes decisiones [4].
 
