@@ -2,9 +2,9 @@
 
 ### ■ Contenidos de la Unidad
 - 📝 [Algoritmos, pseudocódigo, diagrama de flujo.](Algoritmos.md)
-- 🟦 Programación por bloques.
-- 🔹 Ejemplos de algoritmos con estructuras lineales/secuenciales.
-- ⚠️ Principales dificultades en la aplicación de los contenidos.
+- 🟦 [Programación por bloques.](bloques.md)
+- 🔹 [Ejemplos de algoritmos con estructuras lineales/secuenciales.](Ejemplos.md)
+- ⚠️ [Principales dificultades en la aplicación de los contenidos.](dificultades.md)
 - 💡 Reflexión crítica de los aprendizajes de la unidad.
 
 ### ■ Tareas Entregadas
