@@ -44,4 +44,4 @@ Declaro que, para la elaboración de este portafolio digital, utilicé herramien
 
 Todas las ideas, análisis, ejemplos de algoritmos y trabajos académicos fueron desarrollados por mí, siendo la IA solo un **soporte auxiliar** para la presentación y organización del contenido.
 
-# [Regresar a la portada](caratula.md)
+# [Regresar a la portada](Caratula.md)
