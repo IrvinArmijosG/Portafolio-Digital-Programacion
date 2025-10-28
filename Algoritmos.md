@@ -1,7 +1,7 @@
 # 🧠 Algoritmos, Pseudocódigo y Diagrama de Flujo
 
 ## 📘 Algoritmos
-Un **algoritmo** es un conjunto finito y ordenado de pasos que permiten resolver un problema o realizar una tarea específica.  
+Un **algoritmo** es un conjunto finito y ordenado de pasos que permiten resolver un problema o realizar una tarea específica. 
 Se usa para definir la lógica de un proceso antes de programarlo.  
 Por ejemplo, un algoritmo para sumar dos números especifica las operaciones que deben hacerse y en qué orden [1].
 
