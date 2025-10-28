@@ -144,3 +144,5 @@ int main() {
 ## 💡 Breve explicación
 Este código **recibe la base y la altura de un rectángulo**, calcula su **área** y **perímetro**, y luego los muestra en pantalla. 📏🎯
 
+## [Descargar codigos recientemente mostrados](https://github.com/IrvinArmijosG/Portafolio-Digital-Programacion/blob/main/Codigos.zip)
+
