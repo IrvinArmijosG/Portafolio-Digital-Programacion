@@ -11,7 +11,13 @@
 - 🧮 Fórmula: promedio = (nota1 + nota2 + nota3 + nota4) / 4  
 
 **📤 Salida**  
-- 🎯 El valor del promedio  
+- 🎯 El valor del promedio
+## Prueba de escritorio
+| nota1 | nota2 | nota3 | nota4 | Operación                  | Promedio |
+|-------|-------|-------|-------|---------------------------|----------|
+| 7     | 8     | 9     | 10    | (7+8+9+10)/4             | 8.5      |
+
+
 
 **📝 Pseudocódigo (PSeInt)**  
 Algoritmo PromedioNotas  
@@ -81,7 +87,13 @@ Este código **toma cuatro notas ingresadas por el usuario**, calcula su **prome
 - 📏 Calcular el perímetro: perimetro = 2 * (base + altura)  
 
 **📤 Salida**  
-- 🎯 Área y perímetro del rectángulo  
+- 🎯 Área y perímetro del rectángulo
+
+## Prueba de escritorio
+| base | altura | Operación Área  | Área | Operación Perímetro | Perímetro |
+|------|------|--------|----------------|------|-------------------|
+| 5    | 3      | 5*3            | 15   | 2*(5+3)           | 16        |
+
 
 **📝 Pseudocódigo (PSeInt)**  
 Algoritmo AreaPerimetroRectangulo  
