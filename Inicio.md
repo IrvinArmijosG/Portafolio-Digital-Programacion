@@ -12,17 +12,17 @@
 - Tareas Entregadas
 
 
-### ⚙️ Unidad 2
+# ⚙️ Unidad 2
 
-### 🧠 Unidad 3
-
----
-
-### 🏁 Conclusiones
+# 🧠 Unidad 3
 
 ---
 
-### 📚 Referencias
+# 🏁 Conclusiones
+
+---
+
+# 📚 Referencias
 [1] “Algorithm,” TechTarget. Disponible en: https://www.techtarget.com/whatis/definition/algorithm. 
 
 [2] “Algorithm,” Merriam-Webster. Disponible en: https://www.merriam-webster.com/dictionary/algorithm. 
