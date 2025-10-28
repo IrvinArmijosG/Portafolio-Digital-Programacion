@@ -43,6 +43,14 @@ Algoritmo PromedioNotas
  Escribir "El promedio es:", promedio  
 FinAlgoritmo  
 
+# 📤Salida mostrada en Pseint
+<img width="345" height="337" alt="image" src="https://github.com/user-attachments/assets/3d26284b-36e6-47ec-93c2-9cb820249a71" />
+
+# 🧮Diagrama de Flujo
+
+<img width="361" height="697" alt="image" src="https://github.com/user-attachments/assets/2a204090-8067-4e63-80f4-d0f6779fa769" />
+
+
 **🖥️ Código en C**  
 #include <stdio.h>  
 int main() {  
@@ -67,6 +75,10 @@ int main() {
  
  printf("El promedio es: %.2f\n", promedio);  
  return 0;  
+
+ # 💻 Ejecucion en C
+ <img width="883" height="153" alt="image" src="https://github.com/user-attachments/assets/368ecf97-0944-422e-87d7-7a40272495a6" />
+
 }  
 
 ## 💡 Breve explicación
@@ -117,6 +129,15 @@ Algoritmo AreaPerimetroRectangulo
  Escribir "El perímetro del rectángulo es:", perimetro  
 FinAlgoritmo  
 
+# 📤Salida mostrada en Pseint
+<img width="394" height="249" alt="image" src="https://github.com/user-attachments/assets/b3e93f5e-b3ee-4920-8654-8390aa8a86d3" />
+
+
+# 🧮Diagrama de Flujo
+
+<img width="448" height="691" alt="image" src="https://github.com/user-attachments/assets/ef55bcd3-c50d-4b52-8cab-91eb0060a222" />
+
+
 **🖥️ Código en C**  
 #include <stdio.h>  
 int main() {  
@@ -140,6 +161,10 @@ int main() {
  printf("El perimetro del rectangulo es: %.2f\n", perimetro);  
  return 0;  
 }  
+
+# 💻 Ejecucion en C
+<img width="952" height="125" alt="image" src="https://github.com/user-attachments/assets/2f4fec6c-0178-4850-a1f2-eff966703ca9" />
+
 
 ## 💡 Breve explicación
 Este código **recibe la base y la altura de un rectángulo**, calcula su **área** y **perímetro**, y luego los muestra en pantalla. 📏🎯
