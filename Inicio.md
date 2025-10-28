@@ -15,13 +15,13 @@
 ---
 
 ### 📚 Referencias
-[1] Wikipedia, “Algorithm,” 2024. Disponible en: https://en.wikipedia.org/wiki/Algorithm
+[1] “Algorithm,” TechTarget. Disponible en: https://www.techtarget.com/whatis/definition/algorithm. :contentReference[oaicite:0]{index=0}  
 
-[2] Simplilearn, “What is an Algorithm? Definition, Types, and Examples,” 2023. Disponible en: https://www.simplilearn.com/tutorials/data-structure-tutorial/what-is-an-algorithm
+[2] “Algorithm,” Merriam-Webster. Disponible en: https://www.merriam-webster.com/dictionary/algorithm. :contentReference[oaicite:1]{index=1} 
 
-[3] Wikipedia, “Pseudocode,” 2024. Disponible en: https://en.wikipedia.org/wiki/Pseudocode
+[3] “What Is Pseudocode?,” Built In. Disponible en: https://builtin.com/data-science/pseudocode. :contentReference[oaicite:2]{index=2}  
 
-[4] Wikipedia, “Flowchart,” 2024. Disponible en: https://en.wikipedia.org/wiki/Flowchart
+[4] “Complete Tutorial for Pseudocode,” DevOpsSchool. Disponible en: https://www.devopsschool.com/blog/complete-tutorial-for-pseudocode/. :contentReference[oaicite:3]{index=3}  
 
 [5] GeeksforGeeks, “Introduction to Flowcharts,” 2023. Disponible en: https://www.geeksforgeeks.org/an-introduction-to-flowcharts
 
