@@ -11,11 +11,14 @@ Facilita la comprensión de conceptos de programación sin necesidad de escribir
 
 [Blockly Games](https://blockly.games/?lang=es) es una serie de juegos educativos que enseñan conceptos básicos de programación mediante bloques visuales.  
 
-**Juegos realizados en clase:**
+**Ejemplos**
+
 - **Puzzle:** Resolver rompecabezas organizando bloques para completar tareas.
+- Se debe de unir cada bloque segun lo como corresponda como se muestra en la siguiente imagen
 - <img width="1919" height="900" alt="image" src="https://github.com/user-attachments/assets/327479cc-da69-4611-b009-de8d74764d6d" />
 
 - **Laberinto:** Guiar un personaje a través de un laberinto usando bloques que representan movimientos y decisiones.
+- Se debe dar instrucciones para que el personaje empieze a moverse y llegar a la meta como se muestra en la siguiente imagen
 - <img width="1912" height="910" alt="image" src="https://github.com/user-attachments/assets/f2e9f20a-c0d8-4b4f-b992-402ff975d98f" />
 
 
@@ -24,8 +27,8 @@ Facilita la comprensión de conceptos de programación sin necesidad de escribir
 #### 2. Pilas Bloques
 [Pilas Bloques](https://pilasbloques.program.ar/online#/) permite crear juegos, animaciones y simulaciones usando programación por bloques.  
 
-**Nivel realizado en clase:**
-- **Nivel Principiante:** Introduce la programación mediante proyectos sencillos usando bloques que representan acciones y eventos.
+**Ejemplo**
+-El juego consiste en dar instrucciones de movimiento para que el animal llegue a su comida como se muestra en la siguiente imagen:
 <img width="1914" height="701" alt="image" src="https://github.com/user-attachments/assets/ddfb3ede-2d3a-4c70-a47b-c13408941e4d" />
 
 **Objetivo pedagógico:** Fomentar creatividad y pensamiento lógico mientras se aprenden conceptos básicos de programación [8].
