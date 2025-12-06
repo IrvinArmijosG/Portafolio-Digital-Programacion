@@ -17,13 +17,6 @@
 
 ## 📚 Tareas Entregadas
 
-- 📝 **[Ejercicios de estructuras condicionales (diagramas y C)](link-aqui)**
-
-- 🔄 **[Ejercicios de estructuras repetitivas (diagramas y C)](link-aqui)**
-
-- 🧪 **[Ejercicio combinado (condicional + repetitiva) en Java o Python](link-aqui)**
-
-
 ---
 
-## 🔙 [Volver al inicio](#)
+## 🔙 [Volver al inicio](Inicio)
