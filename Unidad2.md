@@ -2,11 +2,11 @@
 
 ## 📘 Contenidos de la Unidad
 
-- 🔀 **[Estructuras condicionales (tipos y ejercicios en diagrama de flujo y en C)](link-aqui)**
+- 🔀 **[Estructuras condicionales](link-aqui)**
 
-- 🔁 **[Estructuras repetitivas (tipos y ejercicios en diagrama de flujo y en C)](link-aqui)**
+- 🔁 **[Estructuras repetitivas](link-aqui)**
 
-- 🧩 **[Ejercicio combinando estructura condicional y repetitiva (Java o Python)](link-aqui)**
+- 🧩 **[Ejercicio combinando estructura condicional y repetitiva en Java)](link-aqui)**
 
 - ⚠️ **[Principales dificultades en la aplicación de los contenidos](link-aqui)**
 
