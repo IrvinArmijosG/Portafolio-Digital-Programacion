@@ -24,6 +24,7 @@ Al final, mostrar la suma total y el promedio de los números ingresados.
 
 ---
 
+
 ### 🧪 Pruebas de escritorio
 
 | Iteración | Número ingresado | Condición `numero <= 0` | Acción/Salida                  |
@@ -80,3 +81,6 @@ public class ejercicioporta {
 ## Evidencia
 
 <img width="374" height="152" alt="image" src="https://github.com/user-attachments/assets/bd30d9cb-2b54-4481-821f-38f322b92ce7" />
+
+---
+[Volver al inicio](Inicio.md)
