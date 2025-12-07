@@ -291,6 +291,10 @@ int main() {
 # Caso Falso
 <img width="295" height="131" alt="image" src="https://github.com/user-attachments/assets/c0aa936c-191d-4fd9-a9fb-d458f94b7c10" />
 
+---
+
+[Volver al inicio](Inicio.md)
+
 
 
 
