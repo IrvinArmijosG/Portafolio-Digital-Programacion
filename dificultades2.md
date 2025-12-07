@@ -7,3 +7,5 @@ Durante la realización de los ejercicios de la unidad, se presentaron algunas d
 2. **Estructuras repetitivas:** Se presentó dificultad al identificar cuál bucle usar (`for`, `while` o `do...while`) según la situación. Además, integrar correctamente la repetición con la validación de datos positivos requirió atención extra para evitar errores de lógica y bucles infinitos.
 
 3. **Aprender a programar en Java:** La sintaxis y las reglas propias de Java, como la declaración de clases, métodos y tipos de datos, fueron un reto al inicio. Adaptarse a la forma en que Java maneja la entrada/salida y la gestión de variables fue necesario para poder implementar correctamente los ejercicios.
+
+[Volver al inicio](Inicio.md)
