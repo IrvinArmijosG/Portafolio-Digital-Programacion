@@ -14,3 +14,17 @@
 
 [8] “Pilas Bloques,” Pilas Bloques. Disponible en: https://pilasbloques.program.ar/online#/
 
+[9] H. M. Deitel and P. J. Deitel, *C: How to Program*, 8th ed. Pearson, 2016.
+
+[10] B. W. Kernighan and D. M. Ritchie, *The C Programming Language*, 2nd ed. Prentice Hall, 1988.
+
+[11] P. J. Plauger, *The Standard C Library*, Prentice Hall, 1992.
+
+[12] J. Liberty, *Sams Teach Yourself C in 21 Days*, Sams Publishing, 2013.
+
+[13] H. M. Deitel and P. J. Deitel, *C: How to Program*, 8th ed. Pearson, 2016.
+
+[14] B. W. Kernighan and D. M. Ritchie, *The C Programming Language*, 2nd ed. Prentice Hall, 1988.
+
+[15] J. Liberty, *Sams Teach Yourself C in 21 Days*, Sams Publishing, 2013.
+
