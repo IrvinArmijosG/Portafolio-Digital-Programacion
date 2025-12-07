@@ -2,9 +2,9 @@
 
 ## 📘 Contenidos de la Unidad
 
-- 🔀 **[Estructuras condicionales](link-aqui)**
+- 🔀 **[Estructuras condicionales](Estructuras%20condicionales.md)**
 
-- 🔁 **[Estructuras repetitivas](link-aqui)**
+- 🔁 **[Estructuras repetitivas](Estructuras%20repetitivas.md)**
 
 - 🧩 **[Ejercicio combinando estructura condicional y repetitiva en Java)](link-aqui)**
 
