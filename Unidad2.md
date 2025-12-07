@@ -6,9 +6,9 @@
 
 - 🔁 **[Estructuras repetitivas](Estructuras%20repetitivas.md)**
 
-- 🧩 **[Ejercicio combinando estructura condicional y repetitiva en Java)](link-aqui)**
+- 🧩 **[Ejercicio combinando estructura condicional y repetitiva en Java)](java.m)**
 
-- ⚠️ **[Principales dificultades en la aplicación de los contenidos](java.md)**
+- ⚠️ **[Principales dificultades en la aplicación de los contenidos](d)**
 
 - 💡 **[Reflexión crítica de los aprendizajes de la unidad](link-aqui)**
 
