@@ -8,9 +8,9 @@
 
 - 🧩 **[Ejercicio combinando estructura condicional y repetitiva en Java](java.md)**
 
-- ⚠️ **[Principales dificultades en la aplicación de los contenidos](d)**
+- ⚠️ **[Principales dificultades en la aplicación de los contenidos](dificultades2.md)**
 
-- 💡 **[Reflexión crítica de los aprendizajes de la unidad](link-aqui)**
+- 💡 **[Reflexión crítica de los aprendizajes de la unidad](reflexion2.md)**
 
 
 ---
