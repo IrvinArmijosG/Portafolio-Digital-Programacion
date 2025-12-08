@@ -1,3 +1,69 @@
+# ☕ ¿Qué es Java?
+
+Java es un **lenguaje de programación de alto nivel, orientado a objetos y multiplataforma**.  
+Su principio es **“Write Once, Run Anywhere”**, lo que significa que un programa Java puede ejecutarse en cualquier sistema operativo que tenga instalada la **JVM (Java Virtual Machine)**.
+
+Java incluye:  
+- 🧠 Lenguaje de programación  
+- ⚙️ Máquina Virtual de Java (JVM)  
+- 📚 Librerías estándar (API)
+
+Se usa ampliamente en:  
+- 🏢 Aplicaciones empresariales  
+- 📱 Android  
+- 🌐 Aplicaciones web  
+- 📊 Big Data  
+- 💻 Aplicaciones de escritorio  
+- 🔄 Sistemas distribuidos  
+
+
+---
+
+# 🛠️ ¿Cómo compilar y ejecutar un programa Java?
+
+Para trabajar con Java necesitas instalar el **JDK (Java Development Kit)**.
+
+---
+
+## 1️⃣ Crear el archivo `.java`
+
+Crea un archivo llamado igual que la clase pública:
+
+```java
+// HolaMundo.java
+public class HolaMundo {
+    public static void main(String[] args) {
+        System.out.println("¡Hola, Mundo!");
+    }
+}
+```
+## 2️⃣ Compilar el programa
+En la terminal, ejecuta:
+
+javac HolaMundo.java
+
+Esto generará:
+
+HolaMundo.class
+
+## 3️⃣ Ejecutar el programa
+
+java HolaMundo
+
+🔎 No incluyas la extensión .class al ejecutar.
+
+# 🧬 ¿Qué sucede internamente?
+
+javac convierte el archivo .java en bytecode .class.
+
+La JVM interpreta o JIT-compila ese bytecode a código máquina.
+
+Gracias a la JVM, el mismo programa funciona en Windows, Linux o macOS.
+
+
+
+
+
 # 📌 Ejercicio: Suma de 5 números positivos con validación
 
 Solicitar al usuario que ingrese **5 números positivos**.  
